@@ -9,7 +9,4 @@ public class LogCall {
         
         // this line is from Github , continue to add 
     }
-
-
-
 }
